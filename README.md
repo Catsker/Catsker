@@ -2,7 +2,7 @@
 
 ## Connect with me
 <div align="center">
-<a style="background: #3C7AB0; padding: 10px 15px; border-radius: 5px" href="https://t.me/Catsker" target="_blank">
+<a style="color: white; background: #3C7AB0; padding: 10px 15px; border-radius: 5px" href="https://t.me/Catsker" target="_blank">
 Telegram
 </a> 
 </div>  
